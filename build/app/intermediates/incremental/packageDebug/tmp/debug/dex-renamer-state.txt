@@ -1,0 +1,4 @@
+#Sun Sep 08 12:38:24 BDT 2019
+base.0=/Users/k.munna/dev/tdd_with_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
