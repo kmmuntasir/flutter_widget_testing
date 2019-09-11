@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(title: 'TDD with Flutter'),
+      home: MyHomePage(title: 'Widget Testing with Flutter'),
     );
   }
 }
@@ -21,7 +21,7 @@ class Hello extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
-    return Text("Hello", textDirection: TextDirection.ltr,);
+    return Text("Hello World", textDirection: TextDirection.ltr,);
   }
 
 }
